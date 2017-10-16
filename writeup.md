@@ -18,7 +18,7 @@ The goals / steps of this project are the following:
 [image1]: ./DataSet%20Distribution%20Graph.png "Visualization"
 [image2]: ./grayscale.png "Grayscaling"
 [image3]: ./test_images/0.jpeg "Random Noise"
-[image4]: ./test_images/1.jpef "Traffic Sign 1"
+[image4]: ./test_images/1.jpeg "Traffic Sign 1"
 [image5]: ./test_images/2.jpeg "Traffic Sign 2"
 [image6]: ./test_images/3.jpeg "Traffic Sign 3"
 [image7]: ./test_images/4.jpeg "Traffic Sign 4"
