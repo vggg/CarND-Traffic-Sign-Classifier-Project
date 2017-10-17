@@ -23,6 +23,8 @@ The goals / steps of this project are the following:
 [image6]: ./test_images/3.jpeg "Traffic Sign 3"
 [image7]: ./test_images/4.jpeg "Traffic Sign 4"
 [image8]: ./test_images/5.jpeg "Traffic Sign 5"
+[image9]: ./softmaxprobability.png "Softmax Probability"
+
 
 ## Rubric Points
 
@@ -127,7 +129,13 @@ Here are the results of the prediction:
 
 The model was able to correctly guess 3 of the 5 traffic signs, which gives an accuracy of 60%. This compares favorably to the accuracy on the test set.
 
+####3. Model predicting on each of the five new images by looking at the softmax probabilities for each prediction.
 
+The code for making predictions on my final model is located in the 11th cell of the Ipython notebook.
+
+For the first image, the model is relatively sure that this is a stop sign (probability of 0.7), and the image does contain a 30km/hr speed limit sign. The top five soft max probabilities were
+
+![alt text][image9]
 
 ### (Optional) Visualizing the Neural Network (See Step 4 of the Ipython notebook for more details)
 ####1. Discuss the visual output of your trained network's feature maps. What characteristics did the neural network use to make classifications?
